@@ -1,4 +1,4 @@
-<img align="right" src="assets/xiaowho.png" width="160" alt="xiaowho，戴着 Chz 棒球帽的方脑袋机器人" />
+<img align="right" src="assets/xiaowho.png" width="160" alt="xiaowho，暖白背景上的炭黑色墨滴头像" />
 
 # 你好，我是小谁 👋
 
@@ -17,4 +17,4 @@
 
 记录 AI 工具、独立开发，以及做元舵的一些经历。
 
-<sub>这个戴帽子的方脑袋叫 xiaowho。帽子上的 Chz，来自我的名字。</sub>
+<sub>这颗小墨滴叫 xiaowho。</sub>
