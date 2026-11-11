@@ -13,7 +13,7 @@
 
 ## 边做边记
 
-[个人网站](https://imxiaowho.github.io/) · [工作台的五段路](https://imxiaowho.github.io/workbench-footsteps.html)
+[个人网站](https://imxiaowho.org/) · [工作台的五段路](https://imxiaowho.org/workbench-footsteps.html)
 
 记录 AI 工具、独立开发，以及做元舵的一些经历。
 
